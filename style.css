@@ -990,6 +990,7 @@ html {
         align-items: center;
         gap: 1.5rem;
         margin-top: 4vh;
+        cursor: none;
     }
 
     .smicons img {
@@ -1045,7 +1046,7 @@ html {
     }
 
     .row1-col1 a {
-        height: 1.2rem;
+        height: 1.7rem;
         font-size: 0.7rem;
         color: rgba(255, 255, 255, 0.7);
         border: none;
