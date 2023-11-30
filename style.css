@@ -989,18 +989,18 @@ html {
         justify-content: center;
         align-items: center;
         gap: 1.5rem;
-        margin-top: 10vh;
+        margin-top: 0vh;
     }
 
     .smicons img {
         width: auto;
-        height: 2.5rem;
+        height: 5vh;
     }
 
     .nav a {
         width: 88%;
         padding-left: 6%;
-        padding-block: 4.5vmax;
+        padding-block: 4vh;
         font-size: 3vmax;
         text-decoration: none;
         color: black;
